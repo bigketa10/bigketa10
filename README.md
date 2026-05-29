@@ -3,6 +3,7 @@
 I am  a Computer Science and AI Student interested in AI and in robotics.
 Currently I am working on a software to help improve the teaching of Polymer Chemistry abroad.
 
+# Tools and Tech
 I am currently using a tech stack of React, Typescript, Convex, Clerk and Shadcn in the software engineering side of things.
 For AI, I have experience with PyTorch, Spotify ANNOY, OpenCV and PIL.
 
