@@ -10,9 +10,9 @@ Currently I am working on a software to help my University's teaching of Chemist
  - I also have some CAD experience
 
 ### Some stuff about me
- - I am huge on video games (playing SMT IV right now)
- - Love trying new things
- - I love bouldering and swimming (even working as a lifeguard)
+ - 🎮 I am huge on video games (playing SMT IV right now)
+ - 🚀 Always doing something new
+ - 🧗‍♂️ I love bouldering and swimming (even working as a lifeguard)
 
 <!--
 **bigketa10/bigketa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
